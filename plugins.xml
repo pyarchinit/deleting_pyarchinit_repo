@@ -1,4 +1,4 @@
-<?xml version = '2.0' encoding = 'UTF-8'?>
+<?xml qgis='2.0' version = '2.0' encoding = 'UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='/plugins.xsl' ?>
 <plugins>
   <pyqgis_plugin name='pyArchInit' version='0.1'>
