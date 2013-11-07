@@ -1,20 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type="text/xsl" href="plugins.xsl" ?>
-<!--
-	untitled
-	Created by adarteadmin on 2013-11-07.
-	Copyright (c) 2013 __MyCompanyName__. All rights reserved.
--->
+<?xml version = '2.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='/plugins.xsl' ?>
 <plugins>
- <!--Put plugins in alphabetical order-->
- <pyqgis_plugin version="0.1" name="pyArchInit">
-  <qgis_minimum_version>2.0</qgis_minimum_version>
-  <description>pyArchinit Dev - Archeological GIS Tools - Under Testing - Use for testing only - PyArchInit it's tool to manage archaeological dataset - Only Windows 7 Tested</description>
-  <homepage>https://github.com/pyarchinit/pyarchinit_beta_test_dev</homepage>
-  <file_name>pyarchinit.zip</file_name>
-  <author_name>Luca Mandolesi, Enzo Cocca and the pyArchInit OpenTeam</author_name>
-  <download_url>https://github.com/pyarchinit/pyarchinit_repo/pyarchinit.zip</download_url>
- </pyqgis_plugin>
+  <pyqgis_plugin name='pyArchInit' version='0.1'>
+    <description>pyArchinit Dev - Archeological GIS Tools - Under Testing - Use for testing only - PyArchInit it's tool to manage archaeological dataset - Only Windows 7 Tested<</description>
+    <version>0.1</version>
+    <qgis_minimum_version>2.0</qgis_minimum_version>
+    <homepage>https://sites.google.com/site/pyarchinit/</homepage>
+    <file_name>pyarchinit.zip</file_name>
+    <author_name>Luca Mandolesi</author_name>
+    <download_url>https://github.com/pyarchinit/pyarchinit_repo/pyarchinit.zip</download_url>
+    <uploaded_by>Luca Mandolesi</uploaded_by>
+    <create_date>2005-5-1</create_date>
+    <update_date>2013-11-7</update_date>
+  </pyqgis_plugin>
 </plugins>
-
-
